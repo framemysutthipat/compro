@@ -1,0 +1,28 @@
+﻿Build started 13/8/2563 18:03:14.
+     1>Project "C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\6306021622126-area\6306021622126-area.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\6306021622126-area.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "6306021622126-area.cpp"
+         6306021622126-area.cpp
+     1>6306021622126-area.cpp(41): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\6306021622126-area.exe.embed.manifest.res" Debug\6306021622126-area_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\Debug\6306021622126-area.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\6306021622126-area.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\Debug\6306021622126-area.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\Debug\6306021622126-area.lib" /MACHINE:X86 "Debug\6306021622126-area.exe.embed.manifest.res"
+         "Debug\6306021622126-area.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\6306021622126-area.exe.embed.manifest" /manifest "Debug\6306021622126-area.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\6306021622126-area.exe.embed.manifest.res" Debug\6306021622126-area_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\Debug\6306021622126-area.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\6306021622126-area.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\Debug\6306021622126-area.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\Debug\6306021622126-area.lib" /MACHINE:X86 "Debug\6306021622126-area.exe.embed.manifest.res"
+         "Debug\6306021622126-area.obj"
+         6306021622126-area.vcxproj -> C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\Debug\6306021622126-area.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\6306021622126-area.unsuccessfulbuild".
+         Touching "Debug\6306021622126-area.lastbuildstate".
+     1>Done Building Project "C:\Users\cony1\OneDrive\เอกสาร\Visual Studio 2010\Projects\6306021622126-area\6306021622126-area\6306021622126-area.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.88
